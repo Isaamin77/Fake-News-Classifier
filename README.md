@@ -10,9 +10,13 @@ After downloading the files open your command prompt and navigate to the downloa
 streamlit run app.py
 
 Incase you do not have the required packages please run this code first:
+
 pip install streamlit
+
 pip install scikit-learn
+
 pip install pandas
+
 pip install nltk
 
 Isa Amin
