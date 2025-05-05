@@ -19,5 +19,4 @@ pip install pandas
 
 pip install nltk
 
-Isa Amin
-University of Westminster
+
